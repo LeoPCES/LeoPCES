@@ -1,7 +1,7 @@
 <h2 align="center">Oi! Eu sou o Leonardo 👋 </h2>
 <div>
   <ul>
-    <li>🌱 Olá, sou o Leonardo! Bem vindo ao meu GitHub;<br></li>
+    <li>🌱 Bem vindo ao meu GitHub;<br></li>
      <li>💻 Me aperfeiçoando nas tecnologias JS | Python | C# ASP.NET .<br></li>
   </ul>
  </div>
