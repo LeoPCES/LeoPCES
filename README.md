@@ -1,8 +1,8 @@
 <h2 align="center">Oi! Eu sou o Leonardo 👋 </h2>
 <div>
   <ul>
-    <li>🌱 A caminho do desenvolvimento Full Stack;<br></li>
-     <li>💻 Estudando Python, Django, e JavaScript.<br></li>
+    <li>🌱 Olá, sou o Leonardo! Bem vindo ao meu GitHub;<br></li>
+     <li>💻 Me aperfeiçoando nas tecnologias JS | Python | C# ASP.NET .<br></li>
   </ul>
  </div>
 <div align="center">
